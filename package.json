@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Travel Website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kvin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+    "express-handlebars": "^2.0.1"
+  }
+}
